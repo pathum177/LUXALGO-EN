@@ -1,5 +1,5 @@
 
-const { cmd } = require("../command");
+const { cmd } = require("../lib/command");
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
